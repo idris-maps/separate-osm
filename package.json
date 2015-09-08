@@ -1,0 +1,18 @@
+{
+  "name": "separate-osm",
+  "version": "0.0.0",
+  "description": "Separate OSM file",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OSM"
+  ],
+  "author": "idris-maps.com",
+  "license": "GPL",
+  "dependencies": {
+    "jsonfile": "~2.2.1",
+    "underscore": "~1.8.3"
+  }
+}
